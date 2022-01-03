@@ -1,0 +1,35 @@
+body{
+background-image: url('assets/img/a.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+min-height: 576px;
+position: relative;
+}
+.nav a{
+    color: #fff;
+}
+
+.heading{
+    margin-top: 150px;
+}
+.one{
+    margin-top: 160px;
+}
+.overlay {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:rgba(0, 0, 0, 0.45);
+    z-index:9999;
+    color:white;
+}
+.btn{
+    border: 1px solid #fff;
+    border-radius: 17px !important;
+}
+.na{
+    margin-left: 5px !important;
+}
