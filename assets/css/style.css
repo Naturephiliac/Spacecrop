@@ -12,15 +12,20 @@
     color: #d4cf29;
 }
 /* Body */
-body{
+.body{
     position: relative;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-image: url('../img/3.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     color: #fff;
     min-height: 700px;
+}
+.loginBody{
+
+    background-color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .overlay {
